@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- 0.155.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Jan 2026 21:29:42 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mon Premier Article</title>
+      <link>http://localhost:1313/posts/mon-premier-article/</link>
+      <pubDate>Thu, 29 Jan 2026 21:29:42 +0100</pubDate>
+      <guid>http://localhost:1313/posts/mon-premier-article/</guid>
+      <description>&lt;h1 id=&#34;mon-premier-article&#34;&gt;Mon Premier Article&lt;/h1&gt;
+&lt;p&gt;C’est mon premier article avec Hugo et PaperMod.&lt;/p&gt;
+&lt;p&gt;Je suis en train d’apprendre à créer un site statique, étape par étape.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mon Deuxième Article</title>
+      <link>http://localhost:1313/posts/mon-deuxieme-article.md/</link>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/mon-deuxieme-article.md/</guid>
+      <description>&lt;h1 id=&#34;mon-deuxième-article&#34;&gt;Mon Deuxième Article&lt;/h1&gt;
+&lt;p&gt;C’est mon deuxième article, écrit dans Obsidian.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mon Troisième Article</title>
+      <link>http://localhost:1313/posts/mon-troisi%C3%A8me-article/</link>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/mon-troisi%C3%A8me-article/</guid>
+      <description>&lt;h1 id=&#34;mon-troisième-article&#34;&gt;Mon Troisième Article&lt;/h1&gt;
+&lt;p&gt;C’est mon troisième article, écrit dans Obsidian, puis copié manuellement.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
